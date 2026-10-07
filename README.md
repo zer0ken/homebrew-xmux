@@ -1,7 +1,7 @@
 # Homebrew tap
 
 Homebrew formula for [xmux](https://github.com/zer0ken/xmux), a
-cross-environment tmux/psmux session switcher.
+cross-machine, cross-mux session switcher.
 
 ## Install
 
